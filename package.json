@@ -1,0 +1,12 @@
+{
+  "name": "nodeTdd",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "should":"3.3.2",
+    "mocha":"2.2.5"
+  },
+  "scripts": {
+    "test": "node ./bin/mocha"
+  }
+}
